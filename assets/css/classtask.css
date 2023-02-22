@@ -1,0 +1,50 @@
+.test{
+    color: magenta;
+}
+
+.header{
+    color: yellowgreen;
+}
+
+.active{
+    background-color: green;
+    width: 350px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.deactive{
+    background-color: red;
+    width: 350px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+body{
+    height: 1200px;
+    background-color: black;
+}
+
+#products .icon i{
+    font-size: 100px;
+    color: white;
+    position: relative;
+    top: 400px;
+    left: 910px;
+}
+
+#products .container-edit button{
+    position: relative;
+    top: 400px;
+    left: 600px;
+}
+
+.bulb-on{
+    background-color: yellow;
+}
+
+.active-body{
+    background-color: gray;
+}
